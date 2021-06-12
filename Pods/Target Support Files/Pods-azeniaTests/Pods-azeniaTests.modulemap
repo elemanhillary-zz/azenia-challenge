@@ -1,0 +1,6 @@
+framework module Pods_azeniaTests {
+  umbrella header "Pods-azeniaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
