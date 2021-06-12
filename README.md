@@ -1,0 +1,4 @@
+# azenia-challenge
+
+- Architecture
+MVVM
